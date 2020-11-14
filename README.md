@@ -76,7 +76,7 @@ $ npm install
 $ npm run start
 
 # watch mode
-$ npm run start:dev
+$ npm run start:devwatch
 
 # production mode
 $ npm run start:prod
