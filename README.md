@@ -82,6 +82,8 @@ $ npm run start:devwatch
 $ npm run start:prod
 ```
 
+https://localhost:3000/graphql
+
 ## Test
 
 ```bash
